@@ -1,6 +1,6 @@
 # encryption
 
-this method is for hashing texts may be you can use for hashing password or genrate tokens by the way you it becomes so difecult to detect the origanl string
+this method is for hashing texts may be you can use for hashing password or genrate tokens by the way  it becomes so difecult to detect the origanl string
 
 first we are convert the string to byte array and implement astringbuilder so that generating our strings using it to write our strings
 
